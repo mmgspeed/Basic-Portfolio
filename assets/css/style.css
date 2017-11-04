@@ -1,0 +1,147 @@
+body {
+    background-image: url("../images/cork-wallet.png");
+
+}
+
+nav {
+	background-color: white;
+	height: 70px;
+	margin: 0px auto;
+	
+}
+
+#Name {
+	background-color: #00afa8;
+	color: white;
+	width: 300px;
+	height: 70px;
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	box-sizing: border-box;
+	margin-left: 170px;
+	float: left;
+
+}
+
+ul {
+	width: 260px;
+	float: left;
+	margin-left: 480px;
+
+}
+
+a {
+	color: gray;
+}
+
+.pagelinks {
+	color: gray;
+}
+
+li {
+	font-size: 15px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+/*	text-align: center;*/
+	display: inline;
+	/*height: 70px;*/
+	line-height: 4em;
+	/*box-sizing: border-box;*/
+	padding: 10px;
+	
+}
+
+
+.meat {
+	width: 1100px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 25px 25px 25px 25px;
+	margin: 0px auto;
+}
+
+.bio {
+	width: 650px;
+	background-color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 25px 25px 25px 25px;
+	border: 1px solid gray;
+	float: left;
+	line-height: 2em;
+}
+
+
+h1 { 
+	color: #00afa8;
+	font-size: 30px;
+}
+
+#ProfilePic {
+	height: 270px;
+	width: 200px;
+	float: left;
+	padding: 10px 15px 5px 1px;
+
+
+}
+
+.connect {
+	background-color: white;
+	width: 270px;
+	height: 170px;
+	color: #00afa8;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	float: left;
+	padding: 15px;
+	border: 1px solid gray;
+	margin: 0px 40px 40px 40px;
+
+}
+
+.social img {
+	width: 70px;
+	height: 70px;
+	padding: 5px;
+
+}
+
+#line {
+	background-color: #00afa8;
+	height: 10px;
+	clear: both;
+	margin: 0px;
+
+} 
+
+footer {
+	background-color: #666;
+	color: lightgray;
+	height: 40px;
+	text-align: center;
+	clear: both; 
+	padding: 20px 15px 0px 15px;
+	font-size: 12px;
+	line-height: 2em;
+	
+}
+
+.form {
+	width: 1100px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 25px 25px 25px 25px;
+	margin: 0px auto;
+}
+
+.contact {
+	width: 650px;
+	background-color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding: 25px 25px 25px 25px;
+	border: 1px solid gray;
+	float: left;
+	line-height: 2em;
+}
+
+
